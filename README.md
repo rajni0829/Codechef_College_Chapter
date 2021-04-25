@@ -1,3 +1,3 @@
 # Codechef_College_Chapter
 
-A Website with all
+A Website mainly focuses on Management of Data of Events conducted
